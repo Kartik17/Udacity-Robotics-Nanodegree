@@ -14,7 +14,7 @@ To identify the obstacles and rocks in a given image, I modified the given funct
 ![alt text](images_readme/warped.PNG)
 
 ### Navigable Threshold Image
-![alt text](images_readme/thresholdwarped.PNG)
+![alt text](images_readme/threshold_warped.PNG)
 
 ### Obstacle Threshold Image
 ![alt text](images_readme/threshold_obstacle.PNG)
